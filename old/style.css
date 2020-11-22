@@ -1,0 +1,26 @@
+
+body{
+    text-align: right;
+    direction: rtl;
+    background-color: #007c99;
+    color: #c9f5ff;
+}
+
+#FormContainer{
+    
+}
+
+#FormContainer table{
+    margin: 0 auto;
+    width: 35%;
+}
+
+
+#FormContainer form table tr td:first-child{
+    /*width: 40%;*/
+}
+
+#FormContainer form table tr td:last-child{
+    width: 80%;
+    float: left;
+}

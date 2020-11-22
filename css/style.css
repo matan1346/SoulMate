@@ -1,0 +1,38 @@
+
+body{
+    text-align: right;
+    direction: rtl;
+    background-color: #007c99;
+    color: #c9f5ff;
+    
+    
+}
+
+#userMessages
+{
+    text-align: center;
+}
+
+#FormContainer{
+    
+}
+
+#FormContainer table{
+    margin: 0 auto;
+    width: 35%;
+    border-collapse: collapse !important;
+    
+}
+
+#FormContainer form table tr{
+    border: 1px solid black;
+}
+
+#FormContainer form table tr td:first-child{
+    width: 40%;
+}
+
+#FormContainer form #SubmitHolder{
+    margin: 0 auto;
+    width: max-content;
+}
